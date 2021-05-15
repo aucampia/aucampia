@@ -1,3 +1,7 @@
 = Iwan Aucamp
 
-https://orcid.org/0000-0002-7325-3231
+
+* https://orcid.org/0000-0002-7325-3231
+* link:https://www.wikidata.org/wiki/User:Iwan.Aucamp[wikidata.org: Iwan.Aucamp]
+* link:https://gitlab.com/iwan.aucamp[gitlab.com: iwan.aucamp]
+* link:https://stackexchange.com/users/1748411/iwan-aucamp[stackexchange.com: iwan-aucamp]
