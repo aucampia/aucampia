@@ -1,7 +1,7 @@
 = Iwan Aucamp
 
 
-* https://orcid.org/0000-0002-7325-3231
+* +++<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-7325-3231" href="https://orcid.org/0000-0002-7325-3231" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-7325-3231</a></div>+++
 * link:https://www.wikidata.org/wiki/User:Iwan.Aucamp[wikidata.org: Iwan.Aucamp]
 * link:https://gitlab.com/iwan.aucamp[gitlab.com: iwan.aucamp]
 * link:https://stackexchange.com/users/1748411/iwan-aucamp[stackexchange.com: iwan-aucamp]
